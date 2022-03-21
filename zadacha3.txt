@@ -1,0 +1,2 @@
+Biggest Nummber: cat numbers.txt | sort -rn | head -n 1 
+Smallest Number: cat numbers.txt | sort -n |head -n 1 
